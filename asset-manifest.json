@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "%3Ckinapolson%3E.github.io/%3Cnative-expo-todo-app%3E/static/js/main.ef373de5.js",
-    "static/js/113.a3eabed0.js": "%3Ckinapolson%3E.github.io/%3Cnative-expo-todo-app%3E/static/js/113.a3eabed0.js",
-    "favicon.ico": "%3Ckinapolson%3E.github.io/%3Cnative-expo-todo-app%3E/favicon.ico",
-    "index.html": "%3Ckinapolson%3E.github.io/%3Cnative-expo-todo-app%3E/index.html",
-    "static/media/rocket.png": "%3Ckinapolson%3E.github.io/%3Cnative-expo-todo-app%3E/static/media/rocket.d2f3bf41d5e4515c39a9.png",
-    "static/media/bell.png": "%3Ckinapolson%3E.github.io/%3Cnative-expo-todo-app%3E/static/media/bell.cf04af27d6a651c4b904.png",
-    "favicon-32.png": "%3Ckinapolson%3E.github.io/%3Cnative-expo-todo-app%3E/favicon-32.png",
-    "static/media/star.png": "%3Ckinapolson%3E.github.io/%3Cnative-expo-todo-app%3E/static/media/star.69c7138684828d68fe5a.png",
-    "static/media/heart.png": "%3Ckinapolson%3E.github.io/%3Cnative-expo-todo-app%3E/static/media/heart.23b5c2c0eb77d50ff1b4.png",
-    "favicon-16.png": "%3Ckinapolson%3E.github.io/%3Cnative-expo-todo-app%3E/favicon-16.png",
-    "serve.json": "%3Ckinapolson%3E.github.io/%3Cnative-expo-todo-app%3E/serve.json",
-    "manifest.json": "%3Ckinapolson%3E.github.io/%3Cnative-expo-todo-app%3E/manifest.json",
-    "main.ef373de5.js.map": "%3Ckinapolson%3E.github.io/%3Cnative-expo-todo-app%3E/static/js/main.ef373de5.js.map",
-    "113.a3eabed0.js.map": "%3Ckinapolson%3E.github.io/%3Cnative-expo-todo-app%3E/static/js/113.a3eabed0.js.map"
+    "main.js": "/native-expo-todo-app/static/js/main.fbfa3c69.js",
+    "static/js/113.a3eabed0.js": "/native-expo-todo-app/static/js/113.a3eabed0.js",
+    "favicon.ico": "/native-expo-todo-app/favicon.ico",
+    "index.html": "/native-expo-todo-app/index.html",
+    "static/media/rocket.png": "/native-expo-todo-app/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "/native-expo-todo-app/static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "/native-expo-todo-app/favicon-32.png",
+    "static/media/star.png": "/native-expo-todo-app/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "/native-expo-todo-app/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "/native-expo-todo-app/favicon-16.png",
+    "serve.json": "/native-expo-todo-app/serve.json",
+    "manifest.json": "/native-expo-todo-app/manifest.json",
+    "main.fbfa3c69.js.map": "/native-expo-todo-app/static/js/main.fbfa3c69.js.map",
+    "113.a3eabed0.js.map": "/native-expo-todo-app/static/js/113.a3eabed0.js.map"
   },
   "entrypoints": [
     "static/js/113.a3eabed0.js",
-    "static/js/main.ef373de5.js"
+    "static/js/main.fbfa3c69.js"
   ]
 }
