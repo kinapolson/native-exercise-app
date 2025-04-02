@@ -13,6 +13,8 @@
   },
   "dependencies": {
     "@expo/webpack-config": "18.0.1",
+    "@react-navigation/native": "^7.1.1",
+    "@react-navigation/stack": "^7.2.5",
     "@rneui/base": "^4.0.0-rc.8",
     "@rneui/themed": "^4.0.0-rc.8",
     "expo": "~52.0.38",
@@ -20,7 +22,10 @@
     "react": "18.3.1",
     "react-dom": "18.2.0",
     "react-native": "0.76.7",
+    "react-native-gesture-handler": "^2.25.0",
+    "react-native-reanimated": "^3.17.2",
     "react-native-safe-area-context": "^5.3.0",
+    "react-native-screens": "^4.10.0",
     "react-native-vector-icons": "^10.2.0",
     "react-native-web": "~0.18.10"
   },
