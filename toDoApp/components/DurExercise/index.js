@@ -7,7 +7,6 @@ const exercises = [
   { name: 'Jumping Jacks', type: 'repetition' },
   { name: 'Running', type: 'duration' },
   { name: 'Sit Ups', type: 'repetition' },
-  { name: 'Weightlifting', type: 'strength' },
 ];
 
 const DurExercise = ({ exerciseName, setSelection, setExerciseName }) => {
